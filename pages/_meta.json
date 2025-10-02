@@ -7,11 +7,13 @@
   },
   "Empresas": {
     "title": "📈 Empresas",
-    "type": "page"
+    "type": "page",
+    "href": "_blank"
   },
   "Personas": {
     "title": "🙇🏽 Personas",
-    "type": "page"
+    "type": "page",
+    "href": "_blank"
   },
   
   "contact": {
