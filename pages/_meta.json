@@ -2,10 +2,19 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "nosotros": {
+    "title": "Nosotros",
     "type": "page"
   },
+  "Empresas": {
+    "title": "📈 Empresas",
+    "type": "page"
+  },
+  "Personas": {
+    "title": "🙇🏽 Personas",
+    "type": "page"
+  },
+  
   "contact": {
     "title": "Contact ↗",
     "type": "page",
